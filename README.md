@@ -3,3 +3,6 @@ This project is intended to be an updated version of GVSU's EGR 326 cluster proj
 
 ## Description
  ooga booga
+
+
+Change #1
